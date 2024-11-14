@@ -5,17 +5,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} alt="logo" style={{ width: "500px", height: "auto" }} />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Cutting-edge drone technology and data solutions, Smart Surveys for
+          Earthworks.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.propelleraero.com/dirtmate/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Dirtmate
         </a>
       </header>
     </div>
