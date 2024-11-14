@@ -34,5 +34,12 @@ git checkout main
 # Step 11: Merge the "update_logo" Branch into "main"
 git merge update_logo
 
+# Step 12: Commit and Push the Code to GitHub
+git add .
+git commit -m "chore: merge update_logo branch into main"
+git push origin main
+
 # Repository URL
 https://github.com/madetasya/BLACKBIRD_SIMULATION.git
+
+
